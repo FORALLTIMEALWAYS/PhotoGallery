@@ -1,0 +1,11 @@
+.link{
+    display: inline-block;
+    text-decoration: underline;
+    background: yellow;
+    margin: 20px;
+}
+
+.img2{
+    height: 150;
+    width: 250;
+}
